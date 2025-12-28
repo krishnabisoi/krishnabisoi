@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-🔭 I’m currently working on data analytics and business intelligence projects using Python, SQL, Tableau, and Power BI, with a focus on data quality, reporting, and insight generation<br>👯 I’m looking to collaborate on data analysis projects, dashboard development, EDA, and SQL-driven analytics use cases<br>📝 I’m building end-to-end analytics projects involving data cleaning, transformation, and visualization<br>💬 Ask me about SQL, Python (Pandas), Tableau, Power BI, ETL pipelines, data validation, and reporting workflows<br>📫 How to reach me: bisoikrishna16@gmail.com<br>📄 Know about my experience: https://www.linkedin.com/in/krishna-bisoi-91b033185/<br>⚡ Fun fact: I’ve worked with datasets of 10M+ records per day—and enjoy turning messy data into clean, trusted insights
+                                                                                                  # Hi, I am Krishna Bisoi:
+🔭 I’m currently working on data analytics and business intelligence projects using Python, SQL, Tableau, and Power BI, with a focus on data quality, reporting, and insight generation<br>👯 I’m looking to collaborate on data analysis projects, dashboard development, EDA, and SQL-driven analytics use cases<br>📝 I’m building end-to-end analytics projects involving data cleaning, transformation, and visualization<br>💬 Ask me about SQL, Python (Pandas), Tableau, Power BI, ETL pipelines, data validation, and reporting workflows<br>📫 How to reach me: [Gmail](bisoikrishna1603@gmail.com)<br>📄 Know about my experience: [LinkedIn](https://www.linkedin.com/in/krishna-bisoi-91b033185/)<br>⚡ Fun fact: I’ve worked with datasets of 10M+ records per day—and enjoy turning messy data into clean, trusted insights
 
 
 ## 🌐 Socials:
