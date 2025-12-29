@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Krishna Bisoi</h1>
-<h3 align="center">Data Analyst with ~5 years experience SQL, Python, Automation, ETL Pipelines, Data Warehousing, Data Engineering and Reporting.</h3>
+<h3 align="center">Data Analyst with 5+ years experience SQL, Python, Automation, ETL Pipelines, Data Warehousing, Business Intelligence and Reporting.</h3>
 
 - 🔭 I’m currently working on **Mental Health Behavioral Data**
 
 - 🌱 I’m currently learning **Snowflake, Microsoft Fabric**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishnabisoi](https://github.com/krishnabisoi)
+- 👨‍💻 All of my projects are available at [Github][https://github.com/krishnabisoi]
 
 - 💬 Ask me about **anything related to Data Engineering/ Analysis.**
 
-- 📫 How to reach me **krishnabisoi1603@gmail.com**
+- 📫 How to reach me [Gmail](krishnabisoi1603@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/krishna-bisoi-91b033185/](https://www.linkedin.com/in/krishna-bisoi-91b033185/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/krishna-bisoi-91b033185/)
 
 - ⚡ Fun fact **Always ready to explore new delicious food and places.**
 
