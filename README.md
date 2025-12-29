@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Snowflake, Microsoft Fabric**
 
-- 👨‍💻 All of my projects are available at [Github][https://github.com/krishnabisoi]
+- 👨‍💻 All of my projects are available at [Github](https://github.com/krishnabisoi)
 
 - 💬 Ask me about **anything related to Data Engineering/ Analysis.**
 
